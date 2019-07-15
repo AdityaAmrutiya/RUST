@@ -5,7 +5,7 @@ mod paddle;
 mod game;
 mod block;
 mod ball;
-//mod rectangle;
+mod rectangle;
 
 use piston_window::*;
 use piston_window::types::Color;
